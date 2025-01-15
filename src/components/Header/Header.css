@@ -1,0 +1,39 @@
+header{
+    border-bottom: 0.5px solid grey;
+}
+.free-shipping{
+    background-color: #a3c4c9; /* Light blue background */
+  color: #ffffff; /* White text */
+  text-align: center; /* Center the text */
+  padding: 1rem   0; /* Add some padding */
+  font-size: 0.9rem; /* Adjust font size */
+  font-weight: 400;
+ 
+}
+.nav-container{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 3rem;
+}
+
+
+.logo-container{
+    width: 14rem;
+}
+
+.logo-container img{
+    width: 100%;
+    height: auto;
+}
+
+nav{
+    display: flex;
+    gap:1.3rem;
+    align-items: center;
+}
+.nav p{
+font-weight: 300;
+font-size: 1rem;
+}

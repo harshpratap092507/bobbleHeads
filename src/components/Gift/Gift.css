@@ -1,0 +1,39 @@
+.gift-heading{
+    color: red;
+    font-size: 2rem;
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.gift-container{
+    margin: 5rem 0;
+    padding-bottom: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.giftproduct{
+   display: flex;
+   flex-direction: column; 
+   gap:0.7rem;
+}    
+
+.gift-img{
+    width: 20rem;
+}
+.gift-img img{
+    width: 100%;
+    height: auto;
+}
+.sale-price{
+    color: red;
+    font-size: 1.5rem;
+}
+.original-price{
+    text-decoration: line-through;
+    color: grey;
+    font-size: 1.2rem;
+}
