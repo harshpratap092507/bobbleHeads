@@ -8,7 +8,7 @@ const Salesproduct = () => {
     <div className="sales-product">
       {/* <h1 className="center">Desi Heads</h1> */}
       <img
-        src="./src/assets/images/desiHeadsIcon.PNG"
+        src="./src/assets/images/desiHeadsIcon.png"
         className="bobbleHeadIcon"
       />
       <div className="sales-product-container">
